@@ -11,14 +11,13 @@
 ![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 ![](https://img.shields.io/github/license/pehmattos/restaurant-menu.svg)
   
-[Preview](#preview)  •
 [Features](#features)  • 
 [Getting started](#getting-started)  •
 [How to use](#how-to-use)  •
 [Credits](#credits)
 </div>
 
-## Preview
+<img src="category-buttons.gif" width="1000" alt="filtering buttons"/>
 
 ## Features
 - Fully responsive (desktop and mobile)
