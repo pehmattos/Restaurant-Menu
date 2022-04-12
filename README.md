@@ -1,6 +1,3 @@
-
-🛠readme project under construction🛠
-
 <div align="center">
 <h1>Restaurant menu</h1>
   
@@ -15,9 +12,9 @@
 [Getting started](#getting-started)  •
 [How to use](#how-to-use)  •
 [Credits](#credits)
-</div>
 
-<img src="category-buttons.gif" width="1000" alt="filtering buttons"/>
+<img src="category-buttons.gif" width="1000" alt="filtering buttons gif"/>
+</div>
 
 ## Features
 - Fully responsive (desktop and mobile)
