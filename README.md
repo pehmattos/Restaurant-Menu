@@ -22,7 +22,7 @@
 
 ## Getting started
 To begin to use this project, choose one of the following options:
-- Clone the repo: `git clone https://github.com/pehmattos/restaurant-menu/.git`
+- Clone the repo: `git clone https://github.com/pehmattos/restaurant-menu.git`
 - Download on GitHub
 - Fork the repo
 
