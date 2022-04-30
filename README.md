@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Restaurant menu</h1>
   
-**A simple restaurant menu made with array and objects.**
+**_Tutorial project focusing on array and objects._**
   
 ![GitHub repo size](https://img.shields.io/github/repo-size/pehmattos/restaurant-menu)
 ![](https://badgen.net/badge/category/tutorial/red)
